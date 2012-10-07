@@ -1,3 +1,8 @@
+
+FORK of [sio](github.com/schleibinger/sio) to ensure it wont vanish like some other early go libs.
+
+-
+
 Package sio lets you access old serial junk. It's a
 [go-gettable](http://golang.org/cmd/go/#Download_and_install_packages_and_dependencies)
 fork and modification of [dustin's](https://github.com/dustin)
