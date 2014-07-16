@@ -1,5 +1,5 @@
 
-FORK of [sio](github.com/schleibinger/sio) to ensure it wont vanish like some other early go libs.
+FORK of [sio](//github.com/schleibinger/sio) to ensure it wont vanish like some other early go libs.
 
 -
 
