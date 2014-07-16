@@ -20,7 +20,7 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/schleibinger/sio"
+	"github.com/PhiCode/sio"
 )
 
 var bauds = map[int]uint32{

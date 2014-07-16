@@ -24,7 +24,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/schleibinger/sio"
+	"github.com/PhiCode/sio"
 )
 
 var bauds = map[int]uint32{
